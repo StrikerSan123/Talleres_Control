@@ -1,0 +1,49 @@
+LTspice 24.1.5 for Windows
+Circuit: C:\Users\Personal\Desktop\Control Moderno\talleres\taller3\rlc_on_off.net
+Start Time: Mon Apr 28 01:40:11 2025
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+Gmin = 2.14882e-10
+vernier = 0.166667
+vernier = 0.222222
+Gmin = 1.38682e-10
+vernier = 0.296296
+vernier = 0.395061
+Gmin = 6.98984e-11
+vernier = 0.526748
+Gmin = 2.35131e-11
+vernier = 0.702331
+vernier = 0.936441
+Gmin = 4.18796e-12
+vernier = 1
+Gmin = 4.67273e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Total elapsed time: 0.653 seconds.
+
+Files loaded:
+C:\Users\Personal\Desktop\Control Moderno\talleres\taller3\rlc_on_off.net
+C:\Users\Personal\AppData\Local\LTspice\lib\cmp\standard.bjt
+C:\Users\Personal\AppData\Local\LTspice\lib\sub\UniversalOpAmp2.lib
+
